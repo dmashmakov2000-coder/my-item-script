@@ -161,7 +161,7 @@ end
 -- АВТООБНОВЛЕНИЕ
 -- ======================================================================
 
-local UPDATE_URL = "https://raw.githubusercontent.com/dmashmakov2000-coder/item1/main/Item.lua"
+local UPDATE_URL = "https://github.com/dmashmakov2000-coder/my-item-script/raw/refs/heads/main/Item.lua"
 local current_version = SCRIPT_VERSION
 
 -- Функция для получения текущей версии с GitHub
